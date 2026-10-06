@@ -1,0 +1,6 @@
+name=TakeAnyAmount Fix
+id=TakeAnyAmountFix
+require=TakeAnyAmount
+icon=icon.png
+description=Fixes the Take Any Amount mod translation for Build 42.21
+poster=poster.png
